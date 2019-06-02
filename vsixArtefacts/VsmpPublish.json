@@ -2,12 +2,8 @@
   "$schema": "http://json.schemastore.org/vsix-publish",
   "assetFiles": [ //images used in VsmpReadMe.md
     {
-      "pathOnDisk": "..\\vsixTemplatePackSideWaffle\\Resources\\screen0.png",
-      "targetPath": "screen0.png"
-    },
-    {
-      "pathOnDisk": "..\\vsixTemplatePackSideWaffle\\Resources\\screen1.png",
-      "targetPath": "screen1.png"
+      "pathOnDisk": "..\\AgileManifestoWidget\\artefacts\\Screenshot.png",
+      "targetPath": "Screenshot.png"
     }
   ],
   "categories": [   
@@ -18,7 +14,7 @@
   "identity": {
     "internalName": "AgileManifestoWidget"
   },
-  "overview": "..\\vsixArtefacts\\VsmpReadMe.md", //vsmp page content
+  "overview": "..\\artefacts\\VsmpReadMe.md", //vsmp page content
   "priceCategory": "free",
   "publisher": "GregTrevellick",
   "private": true,

@@ -2,9 +2,7 @@
 
 gregt todo vsmpreadme.md
 
-![](screen0.png)
-
-![](screen1.png)
+![](Screenshot.png)
 
 If you like this **free** extension please take just a few seconds to give it a rating.
 
