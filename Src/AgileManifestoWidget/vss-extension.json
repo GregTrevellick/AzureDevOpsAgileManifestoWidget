@@ -1,7 +1,7 @@
 {
   "manifestVersion": 1,
   "id": "AgileManifestoWidgetId",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "name": "The Agile Manifesto",
   "publisher": "GregTrevellick",
   "targets": [
@@ -68,7 +68,6 @@
         "catalogIconUrl:": "app/Images/CatalogIcon.png",
         "previewImageUrl": "app/Images/DefaultIcon.png",
         "uri": "app/dashboard-widget.html",
-        // Sizes supported by your widget (first size in the array is the default)
         "supportedSizes": [
           {
             "rowSpan": 2,
