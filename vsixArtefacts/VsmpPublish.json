@@ -14,7 +14,7 @@
   "identity": {
     "internalName": "AgileManifestoWidget"
   },
-  "overview": "..\\artefacts\\VsmpReadMe.md", //vsmp page content
+  "overview": "VsmpReadMe.md", //vsmp page content
   "priceCategory": "free",
   "publisher": "GregTrevellick",
   "private": true,
