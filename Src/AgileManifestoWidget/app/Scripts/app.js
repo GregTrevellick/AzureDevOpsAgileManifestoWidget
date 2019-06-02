@@ -19,7 +19,7 @@ VSS.require("TFS/Dashboards/WidgetHelpers", function (WidgetHelpers) {
         };
     };
 
-    VSS.register("Your_VSS.register_JavascriptFunctionCallParamaterValue", registerWidget);
+    VSS.register("JSParamValue_AgileManifestoWidget", registerWidget);
 
     VSS.notifyLoadSucceeded();
 });
