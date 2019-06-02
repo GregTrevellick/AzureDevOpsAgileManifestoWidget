@@ -10,4 +10,4 @@ cd C:\_git\AzureDevOpsAgileManifestoWidget\vsixArtefacts\packages\Microsoft.VSSD
 
 
 
-.\VsixPublisher.exe publish  -payload "..\..\AgileManifestoWidget\bin\debug\AgileManifestoWidget.vsix"  -publishManifest "..\..\vsixArtefacts\VsmpPublish.json"  -personalAccessToken "vsmp_pat"
+.\VsixPublisher.exe publish  -payload "C:\_git\AzureDevOpsAgileManifestoWidget\Src\AgileManifestoWidget\GregTrevellick.AgileManifestoWidgetId-1.0.7.vsix"  -publishManifest "C:\_git\AzureDevOpsAgileManifestoWidget\vsixArtefacts\VsmpPublish.json"  -personalAccessToken "vsmp_pat"
