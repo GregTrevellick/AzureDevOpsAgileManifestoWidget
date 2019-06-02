@@ -1,1 +1,3 @@
-tfx extension create --rev-version --manifest-globs "C:\_git\AzureDevOpsAgileManifestoWidget\Src\AgileManifestoWidget\vss-extension.json"
+cd "C:\_git\AzureDevOpsAgileManifestoWidget\Src\AgileManifestoWidget"
+
+tfx extension create --rev-version --manifest-globs vss-extension.json

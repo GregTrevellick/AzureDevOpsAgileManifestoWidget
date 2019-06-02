@@ -1,7 +1,7 @@
 {
   "manifestVersion": 1,
   "id": "AgileManifestoWidgetId",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "name": "The Agile Manifesto",
   "publisher": "GregTrevellick",
   "targets": [
