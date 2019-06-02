@@ -4,7 +4,7 @@ rem https://docs.microsoft.com/en-us/visualstudio/extensibility/walkthrough-publ
 
 echo on
 
-d:
+c:
 
 cd C:\_git\AzureDevOpsAgileManifestoWidget\vsixArtefacts\packages\Microsoft.VSSDK.BuildTools.15.8.3252\tools\vssdk\bin
 
