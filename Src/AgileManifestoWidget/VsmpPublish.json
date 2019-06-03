@@ -2,7 +2,7 @@
   "$schema": "http://json.schemastore.org/vsix-publish",
   "assetFiles": [
     {
-      "pathOnDisk": "..\\..\\..\\..\\..\\..\\AgileManifestoWidget\\artefacts\\Screenshot.png",
+      "pathOnDisk": "..\\artefacts\\Screenshot.png",
       "targetPath": "Screenshot.png"
     }
   ],
@@ -12,9 +12,9 @@
     "scaffolding"
   ],
   "identity": {
-    "internalName": "AgileManifestoWidget"
+    "internalName": "AgileManifestoDashboardWidget"
   },
-  "overview": "VsmpReadMe.md",
+  "overview": "..\\VsmpReadMe.md",
   "priceCategory": "free",
   "publisher": "GregTrevellick",
   "private": true,
