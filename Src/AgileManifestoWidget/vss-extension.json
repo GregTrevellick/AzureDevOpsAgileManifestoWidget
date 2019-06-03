@@ -1,7 +1,7 @@
 {
   "manifestVersion": 1,
   "id": "AgileManifestoDashboardWidget",
-  "version": "1.0.9",
+  "version": "1.0.15",
   "name": "The Agile Manifesto",
   "publisher": "GregTrevellick",
   "targets": [
@@ -14,7 +14,7 @@
     "default": "app/Images/DefaultIcon.png"
   },
   "categories": [
-    "Collaborate"
+    "Azure Boards"
   ],
   "tags": [
     "Agile",
