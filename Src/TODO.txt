@@ -1,9 +1,9 @@
-make public
-screenshot in vsmp
 make grid size changeable
+
 change the yoga icon 
 give the manifesto a background colour ?
 style the words a bit better ? red ?
+apply top publisher ? https://docs.microsoft.com/en-us/azure/devops/extend/publish/publicize?view=azure-devops#apply-to-be-a-top-publisher
 
 
 
