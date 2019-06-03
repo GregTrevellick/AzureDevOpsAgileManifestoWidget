@@ -1,6 +1,6 @@
 [GitHubRepoPullRequestsURL]: https://github.com/GregTrevellick/AzureDevOpsAgileManifestoWidget/pulls
 
-gregt todo vsmpreadme.md
+A dashboard widget to share the software development agile manifesto with your team.
 
 ![](Screenshot.png)
 
