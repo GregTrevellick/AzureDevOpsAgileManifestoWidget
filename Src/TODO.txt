@@ -2,6 +2,8 @@ make public
 screenshot in vsmp
 make grid size changeable
 change the yoga icon 
+give the manifesto a background colour ?
+style the words a bit better ? red ?
 
 
 
