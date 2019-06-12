@@ -42,6 +42,9 @@
     },
     "learn": {
       "uri": "https://agilemanifesto.org/"
+    },
+    "privacypolicy": {
+      "uri": "https://gregtrevellick.github.io/Azure-DevOps-Widget-Privacy-Policy/"
     }
   },
   "screenshots": [
@@ -127,7 +130,13 @@
     "type": "git",
     "uri": "https://github.com/GregTrevellick/AzureDevOpsAgileManifestoWidget"
   },
-  
-  "public": true
- 
+
+  "public": true,
+
+
+
+  "https": //gregtrevellick.github.io/Azure-DevOps-Widget-Privacy-Policy/
+
+
+
 }
