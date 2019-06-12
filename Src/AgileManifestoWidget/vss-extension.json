@@ -1,7 +1,7 @@
 {
   "manifestVersion": 1,
   "id": "AgileManifestoDashboardWidget",
-  "version": "1.0.18",
+  "version": "1.0.19",
   "name": "Agile Manifesto",
   "publisher": "GregTrevellick",
   "targets": [
