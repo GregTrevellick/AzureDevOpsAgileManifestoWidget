@@ -36,6 +36,8 @@
     <None Include="app\*\*.*" />
     <None Include="app\*\*\*.*" />
     <None Include="artefacts\*.*" />
+    <None Include="VsmpBuilder.bat" />
+    <None Include="VsmpReadMe.md" />
     <None Include="vss-extension.json" />
   </ItemGroup>
   <ItemGroup>
