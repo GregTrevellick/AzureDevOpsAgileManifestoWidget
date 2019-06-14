@@ -1,7 +1,7 @@
 {
   "manifestVersion": 1,
   "id": "AgileManifestoDashboardWidget",
-  "version": "1.0.33",
+  "version": "1.0.34",
   "name": "Agile Manifesto",
   "publisher": "GregTrevellick",
   "targets": [
@@ -77,7 +77,7 @@
             "columnSpan": 3
           },
           {
-            "rowSpan": 1,
+            "rowSpan": 3,
             "columnSpan": 3
           },
           {
@@ -85,11 +85,15 @@
             "columnSpan": 2
           },
           {
-            "rowSpan": 1,
-            "columnSpan": 1
+            "rowSpan": 3,
+            "columnSpan": 2
           },
           {
-            "rowSpan": 4,
+            "rowSpan": 2,
+            "columnSpan": 4
+          },
+          {
+            "rowSpan": 3,
             "columnSpan": 4
           }
         ],

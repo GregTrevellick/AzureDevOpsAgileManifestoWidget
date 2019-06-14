@@ -1,7 +1,9 @@
-make grid size changeable
+https://pixabay.com/illustrations/friends-trust-friendship-together-1015296/
 
 change the yoga icon ?
+
 styling (background colour ? style the words a bit better ? red ?)
+
 add badges to github repo
 
 
@@ -24,5 +26,5 @@ add badges to github repo
 
 
 
-https://pixabay.com/illustrations/friends-trust-friendship-together-1015296/
-https://pixabay.com/illustrations/friends-trust-friendship-together-1027840/
+
+--https://pixabay.com/illustrations/friends-trust-friendship-together-1027840/
