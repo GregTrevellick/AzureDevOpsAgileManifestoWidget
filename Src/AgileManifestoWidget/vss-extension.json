@@ -1,7 +1,7 @@
 {
   "manifestVersion": 1,
   "id": "AgileManifestoDashboardWidget",
-  "version": "1.0.31",
+  "version": "1.0.33",
   "name": "Agile Manifesto",
   "publisher": "GregTrevellick",
   "targets": [
@@ -148,6 +148,6 @@
     "uri": "https://github.com/GregTrevellick/AzureDevOpsAgileManifestoWidget"
   },
 
-  "public": false
+  "public": true
 
 }
