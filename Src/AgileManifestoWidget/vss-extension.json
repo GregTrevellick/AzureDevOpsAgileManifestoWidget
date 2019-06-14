@@ -1,7 +1,7 @@
 {
   "manifestVersion": 1,
   "id": "AgileManifestoDashboardWidget",
-  "version": "1.0.35",
+  "version": "1.0.36",
   "name": "Agile Manifesto",
   "publisher": "GregTrevellick",
   "targets": [
@@ -50,6 +50,9 @@
   "screenshots": [
     {
       "path": "artefacts/Screenshot.png"
+    },
+    {
+      "path": "artefacts/Screenshot2.png"
     }
   ],
   "branding": {

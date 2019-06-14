@@ -4,6 +4,8 @@ A dashboard widget to share the software development agile manifesto with your t
 
 ![](Screenshot.png)
 
+![](Screenshot2.png)
+
 If you like this **free** extension please take just a few seconds to give it a rating.
 
 Contributions welcome [here][GitHubRepoPullRequestsURL].
