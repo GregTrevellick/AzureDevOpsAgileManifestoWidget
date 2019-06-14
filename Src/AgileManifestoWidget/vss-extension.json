@@ -1,8 +1,8 @@
 {
   "manifestVersion": 1,
-  "id": "AgileManifestoDashboardWidget",
-  "version": "1.0.19",
-  "name": "Agile Manifesto",
+  "id": "AgileManifestoDashboardWidget222",
+  "version": "1.0.31",
+  "name": "Agile Manifesto 222",
   "publisher": "GregTrevellick",
   "targets": [
     {
@@ -62,9 +62,9 @@
       "id": "JSParamValue_AgileManifestoWidget",
       "type": "ms.vss-dashboards-web.widget",
       "targets": [
-        "ms.vss-dashboards-web.widget-catalog"
+        "ms.vss-dashboards-web.widget-catalog",
+        "GregTrevellick.AgileManifestoDashboardWidget222.JSParamValue_AgileManifestoWidget_Configuration"
       ],
-
       "properties": {
         "name": "The Agile Manifesto",
         "description": "The agile manifesto statement for software development",
@@ -95,12 +95,29 @@
         ],
         "supportedScopes": [ "project_team" ]
       }
+    },
+
+    {
+      "id": "JSParamValue_AgileManifestoWidget_Configuration",
+      "type": "ms.vss-dashboards-web.widget-configuration",
+      "targets": [
+        "ms.vss-dashboards-web.widget-configuration"
+      ],
+      "properties": {
+        "name": "The Agile Manifesto Configuration",
+        "description": "Configures The Agile Manifesto",
+        "uri": "app/configuration.html"
+      }
     }
   ],
 
   "files": [
     {
       "path": "app/dashboard-widget.html",
+      "addressable": true
+    },
+    {
+      "path": "app/configuration.html",
       "addressable": true
     },
     {
@@ -131,6 +148,6 @@
     "uri": "https://github.com/GregTrevellick/AzureDevOpsAgileManifestoWidget"
   },
 
-  "public": true
+  "public": false
 
 }
