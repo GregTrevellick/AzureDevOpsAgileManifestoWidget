@@ -1,8 +1,8 @@
 {
   "manifestVersion": 1,
-  "id": "AgileManifestoDashboardWidget222",
+  "id": "AgileManifestoDashboardWidget",
   "version": "1.0.31",
-  "name": "Agile Manifesto 222",
+  "name": "Agile Manifesto",
   "publisher": "GregTrevellick",
   "targets": [
     {
@@ -63,7 +63,7 @@
       "type": "ms.vss-dashboards-web.widget",
       "targets": [
         "ms.vss-dashboards-web.widget-catalog",
-        "GregTrevellick.AgileManifestoDashboardWidget222.JSParamValue_AgileManifestoWidget_Configuration"
+        "GregTrevellick.AgileManifestoDashboardWidget.JSParamValue_AgileManifestoWidget_Configuration"
       ],
       "properties": {
         "name": "The Agile Manifesto",

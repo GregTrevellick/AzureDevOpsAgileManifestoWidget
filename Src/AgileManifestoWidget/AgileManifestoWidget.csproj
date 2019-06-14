@@ -37,7 +37,7 @@
     <None Include="app\Images\CatalogIcon.png" />
     <None Include="app\Images\DefaultIcon.png" />
     <None Include="app\Scripts\app.js" />
-    <None Include="app\Scripts\configuration222.js" />
+    <None Include="app\Scripts\configuration.js" />
     <None Include="app\*\*\*.*" />
     <None Include="artefacts\*.*" />
     <None Include="VsmpBuilder.bat" />
