@@ -32,7 +32,8 @@
   </PropertyGroup>
   <ItemGroup>
     <None Include="Properties\AssemblyInfo.cs" />
-    <None Include="app\*.*" />
+    <None Include="app\configuration.html" />
+    <None Include="app\dashboard-widget.html" />
     <None Include="app\Content\site.css" />
     <None Include="app\Images\CatalogIcon.png" />
     <None Include="app\Images\DefaultIcon.png" />
