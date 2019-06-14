@@ -33,7 +33,12 @@
   <ItemGroup>
     <None Include="Properties\AssemblyInfo.cs" />
     <None Include="app\*.*" />
-    <None Include="app\*\*.*" />
+    <None Include="app\Content\site.css" />
+    <None Include="app\Images\CatalogIcon.png" />
+    <None Include="app\Images\DefaultIcon.png" />
+    <None Include="app\Scripts\app.js" />
+    <None Include="app\Scripts\configuration222.js" />
+    <None Include="app\Scripts\zzzconfiguration.js" />
     <None Include="app\*\*\*.*" />
     <None Include="artefacts\*.*" />
     <None Include="VsmpBuilder.bat" />
@@ -49,9 +54,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="app\configuration.html" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="app\Scripts\configuration222.js" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
