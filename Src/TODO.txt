@@ -1,3 +1,1 @@
 styling (background colour ? style the words a bit better ? red ?)
-
-add badges to github repo
