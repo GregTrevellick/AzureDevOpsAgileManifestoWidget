@@ -17,7 +17,7 @@ before_build:
 build:
     project: Src/AgileManifestoWidget.sln
     verbosity: minimal
-#after_build:
+#after_build: 
 #    - SonarScanner.MSBuild.exe end /d:"sonar.login=%my_encrypted_sonarqube_token%"
 notifications:
 - provider: Email
