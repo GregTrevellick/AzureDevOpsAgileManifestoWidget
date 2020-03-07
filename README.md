@@ -36,6 +36,10 @@
 
 [Subscribe](https://github.com/GregTrevellick/AzureDevOpsAgileManifestoWidget/subscription) to receive notificatons.
 
+[![Visual Studio Marketplace version](https://img.shields.io/badge/-AgileManifestoDashboardWidget-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.AgileManifestoDashboardWidget)
+[![Visual Studio Marketplace downloads](https://img.shields.io/vscode-marketplace/d/GregTrevellick.AgileManifestoDashboardWidget.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.AgileManifestoDashboardWidget)
+[![Visual Studio Marketplace ratings](https://img.shields.io/vscode-marketplace/r/GregTrevellick.AgileManifestoDashboardWidget.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.AgileManifestoDashboardWidget#review-details)
+[![Visual Studio Marketplace version](https://img.shields.io/vscode-marketplace/v/GregTrevellick.AgileManifestoDashboardWidget.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.AgileManifestoDashboardWidget)
 
 
 
