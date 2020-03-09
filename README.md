@@ -26,18 +26,21 @@
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsAgileManifestoWidget&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=AzureDevOpsAgileManifestoWidget&metric=vulnerabilities)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/duvijp0qiget07i1?svg=true)](https://ci.appveyor.com/project/GregTrevellick/AzureDevOpsAgileManifestoWidget)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/AzureDevOpsAgileManifestoWidget.svg)](https://ci.appveyor.com/project/GregTrevellick/AzureDevOpsAgileManifestoWidget/build/tests)
-[![Azure Build Status](https://gregtrevellick.visualstudio.com/AzureDevOpsAgileManifestoWidget/_apis/build/status/AzureDevOpsAgileManifestoWidget)](https://gregtrevellick.visualstudio.com/AzureDevOpsAgileManifestoWidget/_build/latest?definitionId=10)
+<!-- no md -->
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/AzureDevOpsAgileManifestoWidget/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/GregTrevellick/AzureDevOpsAgileManifestoWidget/subscription)
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-AgileManifestoDashboardWidget-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.AgileManifestoDashboardWidget)
 [![Visual Studio Marketplace downloads](https://img.shields.io/vscode-marketplace/d/GregTrevellick.AgileManifestoDashboardWidget.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.AgileManifestoDashboardWidget)
 [![Visual Studio Marketplace ratings](https://img.shields.io/vscode-marketplace/r/GregTrevellick.AgileManifestoDashboardWidget.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.AgileManifestoDashboardWidget#review-details)
 [![Visual Studio Marketplace version](https://img.shields.io/vscode-marketplace/v/GregTrevellick.AgileManifestoDashboardWidget.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.AgileManifestoDashboardWidget)
+
+
 
 <!--BadgesEND-->
 
