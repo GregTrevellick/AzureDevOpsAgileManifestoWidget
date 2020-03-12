@@ -9,7 +9,6 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/AzureDevOpsAgileManifestoWidget/badge)](https://www.codefactor.io/repository/github/GregTrevellick/AzureDevOpsAgileManifestoWidget)
 <!-- no md -->
 <!-- no md -->
-<!-- no md -->
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/AzureDevOpsAgileManifestoWidget.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AzureDevOpsAgileManifestoWidget/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/AzureDevOpsAgileManifestoWidget.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AzureDevOpsAgileManifestoWidget/context:javascript)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/AzureDevOpsAgileManifestoWidget.svg)](https://github.com/GregTrevellick/AzureDevOpsAgileManifestoWidget)
@@ -37,6 +36,7 @@
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 [![Subscribe](https://img.shields.io/badge/subscribe%20to%20receive%20notificatons-grey.svg)](https://github.com/GregTrevellick/AzureDevOpsAgileManifestoWidget/subscription)
+<!-- no md -->
 
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-AgileManifestoDashboardWidget-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.AgileManifestoDashboardWidget)
 [![Visual Studio Marketplace downloads](https://img.shields.io/vscode-marketplace/d/GregTrevellick.AgileManifestoDashboardWidget.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.AgileManifestoDashboardWidget)
