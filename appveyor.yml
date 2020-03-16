@@ -11,7 +11,7 @@ install:
 before_build:
     - cmd: nuget restore Src/AgileManifestoWidget.sln
     - dotnet tool install -g dotnet-sonarscanner
-    - dotnet sonarscanner begin /key:"AgileManifestoWidget" /d:"sonar.host.url=https://sonarcloud.io" /d:"sonar.login=%my_encrypted_sonarqube_token%" /o:"gregtrevellick-github"
+    - dotnet sonarscanner begin /key:"AzureDevOpsAgileManifestoWidget" /d:"sonar.host.url=https://sonarcloud.io" /d:"sonar.login=%my_encrypted_sonarqube_token%" /o:"gregtrevellick-github"
 build:
     project: Src/AgileManifestoWidget.sln
     verbosity: minimal
