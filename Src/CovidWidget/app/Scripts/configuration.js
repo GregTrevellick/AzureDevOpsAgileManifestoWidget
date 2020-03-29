@@ -7,7 +7,7 @@ VSS.require("TFS/Dashboards/WidgetHelpers", function (WidgetHelpers) {
 
     WidgetHelpers.IncludeWidgetConfigurationStyles();
 
-    VSS.register("JSParamValue_AgileManifestoWidget_Configuration", function () {
+    VSS.register("JSParamValue_CovidWidget_Configuration", function () {
 
         return {
 

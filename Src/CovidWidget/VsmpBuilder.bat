@@ -1,6 +1,6 @@
 rem vsmp_pat not used
 
-cd "C:\_git\AzureDevOpsAgileManifestoWidget\Src\AgileManifestoWidget"
+cd "C:\_git\AzureDevOpsCovidWidget\Src\CovidWidget"
 
 tfx extension create --rev-version --manifest-globs vss-extension.json
 
