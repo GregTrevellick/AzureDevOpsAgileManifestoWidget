@@ -10,4 +10,3 @@ Individual releases are tagged as such in GitHub.
 **2019-06-03**
 - [x] Initial release 
 
- 

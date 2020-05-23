@@ -8,8 +8,8 @@
     <ProjectGuid>{F19B92A1-5D7C-40BC-BFB5-5F15C1CFFD81}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CovidWidget</RootNamespace>
-    <AssemblyName>CovidWidget</AssemblyName>
+    <RootNamespace>AgileManifestoWidget</RootNamespace>
+    <AssemblyName>AgileManifestoWidget</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -32,16 +32,10 @@
   </PropertyGroup>
   <ItemGroup>
     <None Include="Properties\AssemblyInfo.cs" />
-    <None Include="app\dashboard-widget.html" />
-    <None Include="app\Content\site.css" />
-    <None Include="app\Images\CatalogIcon.png" />
-    <None Include="app\Images\DefaultIcon.png" />
-    <None Include="app\Scripts\app.js" />
-    <None Include="app\Scripts\configuration.js" />
+    <None Include="app\*.*" />
+    <None Include="app\*\*.*" />
     <None Include="app\*\*\*.*" />
     <None Include="artefacts\*.*" />
-    <None Include="VsmpBuilder.bat" />
-    <None Include="VsmpReadMe.md" />
     <None Include="vss-extension.json" />
   </ItemGroup>
   <ItemGroup>
@@ -50,12 +44,6 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="artefacts\Screenshot2.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="app\Images\base.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
